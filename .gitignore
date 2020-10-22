@@ -1,8 +1,6 @@
-# Default ignored files
-/shelf/
-/.idea/workspace.xml
-# Datasource local storage ignored files
-/../../../../../../:\Users\Иван\IdeaProjects\mylab\.idea/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+*.class
+*.jar
+target
+.idea
+uploads
+src/main/resources/application.properties
