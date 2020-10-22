@@ -1,7 +1,7 @@
 *.class
 *.jar
-target
-.idea
+/target
+/.idea
 uploads
 src/main/resources/application.properties
 target/classes/application.properties
