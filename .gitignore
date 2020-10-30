@@ -2,5 +2,5 @@
 *.jar
 /target
 /.idea
-uploads
+/uploads
 /src/main/resources/application.properties
